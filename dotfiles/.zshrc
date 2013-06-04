@@ -44,6 +44,9 @@ export PATH=~/bin:$PATH
 ## aliases
 ###
 
+#server
+alias s='sudo /etc/init.d/apache2' #followed by start/restart
+
 #irssi+nicklist/tmux script
 alias irc='/bin/bash ~/irssi.sh'
 
