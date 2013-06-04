@@ -1,10 +1,6 @@
-# Created by phallus for 5.0.2
-
-
 ###
 ## general settings
 ###
-
 
 #prompt and syntax highlighting
 PROMPT='%F{cyan}[%F{red}%~%F{cyan}]%F{blue}───%f '
