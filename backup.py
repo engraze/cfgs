@@ -5,7 +5,7 @@
 # the remote machine is expected to have a startup script in the host's ~/bin
 # the startup script must be called connect-to-[domain].sh and follow the same pattern as the rest
 #
-# the remote machine must have ssh root login enabled in ssh
+# the remote machine must have ssh root login enabled
 # 'PermitRootLogin yes' in /etc/ssh/sshd_config
 #
 # the remote machine is expected to have a file called fs.txt in root's home (/root)
